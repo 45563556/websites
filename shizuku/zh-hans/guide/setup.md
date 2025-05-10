@@ -2,7 +2,7 @@
 
 [[toc]]
 
-## 启动 Shizuku
+## 启动 Shlel
 
 Shizuku 支持通过以下三种方式启动。
 
